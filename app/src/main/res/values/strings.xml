@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Trial Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="WELCOME">text_one</string>
+    <string name="text_view">WELCome</string>
+    <string name="text_box_one">WELCOME TO FIRST FRAGMENT</string>
+    <string name="button_one">Next Fragment</string>
+    <string name="text_box_three">ITS MY THIRD FRAGMENT</string>
+    <string name="button_three">Next Activity</string>
+    <string name="text_box_two">Hi Androiders!!!</string>
+    <string name="button_two">Next Fragment</string>
+    <string name="text_box_activity_two">End Activity</string>
+</resources>
