@@ -10,5 +10,7 @@
     <string name="button_three">Next Activity</string>
     <string name="text_box_two">Hi Androiders!!!</string>
     <string name="button_two">Next Fragment</string>
-    <string name="text_box_activity_two">End Activity</string>
+    <string name="text_box_activity_three">End Activity</string>
+    <string name="activity_two_button">Next Activity</string>
+    <string name="text_box_activity_two">Thenmozhi</string>
 </resources>

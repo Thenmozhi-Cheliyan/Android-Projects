@@ -10,7 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TrialNavigation">
         <activity
-            android:name=".MainActivityTwo"
+            android:name=".MainActivityThree" android:parentActivityName=".MainActivityTwo"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityTwo" android:parentActivityName=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
