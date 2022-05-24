@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Thenmozhi</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_text">
+        Hi, I am Thenmozhi.
+        \n\n I can eat same food, day-in-day-out and not get bored.
+        \n\n I can listen to same song non-stop in loop for days and still enjoy it. This freaks out all my buddies :).
+        \n\n I love the fragrance of wet mud.
+        \n\n I like to dream.
+        \n\n I have few close friends.
+        \n\n I love chocolates, in anything and everything.
+        \n\n Steaming hot cup of ginger-cardamom-pepper milk-tea is my favourite beverage.
+        \n\n And my Mommy\'s love transforms it into ambrosia.
+        \n\n Cold coffee (light) with ice-cream comes next.
+        \n\n Amongst flowers, I love the fragrance of Jasmine and Lavender.
+        \n\n I like neat-n-tidy bed with a crease-less sheet on it (just like you see in your hotel rooms).
+        \n\n I am practitioner of subtlety.
+        \n\n I am very optimistic about my pessimismMy Belief.
+        \n\n If faith in ourselves had been more extensively taught and practiced, I am sure a very large portion of the evils and miseries that we have would have vanished.
+        \n\n I\'m a student of practice (just as one of my profs is Professor of the Practice).
+        \n\n I think good algorithms should be like bikinis… It should save people a lot of guesswork.
+        \n\n I hate deadlines to the CORE! Because it\'s not.\n\n </string>
+    <string name="what_is_your_nick_name">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
